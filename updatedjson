@@ -1,0 +1,182 @@
+[
+  {
+    "Hash": "b047775aab1919491c9ea009f85b1ed116172949361108aa10ac47816dcd3d87",
+    "Series Number": "401",
+    "Filename": "smirky-becky",
+    "Description": "Becky ends every statement she makes with a smirk.",
+    "Gender": "female",
+    "UUID": "87bcc41f-eb3e-4ba2-9645-223c949a9b50",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "7ca2743d5fe6e1ad1d5a3a56f290a64b2f3549139770cd14fa9ca5456bdc0f4d",
+    "Series Number": "402",
+    "Filename": "ankara-scarlett",
+    "Description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "Gender": "female",
+    "UUID": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "e0cc0c67d9554d36da53052c5604ad6baa0a1c3833634024b5c2f3fa9e4b6810",
+    "Series Number": "403",
+    "Filename": "sea-rastafaria",
+    "Description": "Ronke is the ghetto goddess that nobody wants to mess with. Stay clear!",
+    "Gender": "female",
+    "UUID": "d1556c97-9075-49fc-8bde-1826bfc2dbe1",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "0507c8f3b395dd8b3592626f4898e7767bc3c078879f2448425cb5b0417df57e",
+    "Series Number": "404",
+    "Filename": "pretty-betty",
+    "Description": "Betty is always proud of her beauty.",
+    "Gender": "female",
+    "UUID": "6a4f5b7c-914d-42c5-8e5f-d1c34ca48886",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "adb05e5d56abed64921ffdb404998f6ffb047dd1812d0abce6a04c95bcc2bc6e",
+    "Series Number": "405",
+    "Filename": "lola-medusa",
+    "Description": "Lola knows how to seduce every guys she is into.",
+    "Gender": "female",
+    "UUID": "32ec57f7-8272-4671-ad2d-db3dff99fe9f",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "547e38c9936c468c7ffa86d29cdc7a22d7e7f861b46b2d7fb51e2924e8f2c054",
+    "Series Number": "406",
+    "Filename": "bukola-nosend",
+    "Description": "Bukola is friends with many but always get moody.",
+    "Gender": "female",
+    "UUID": "59d19b13-09e2-412e-a669-df020e03ae10",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "cee8785b59d154a363bd5774f0314087d813b7a1f53d87b71f8ec115ac4687de",
+    "Series Number": "407",
+    "Filename": "burna-morgan",
+    "Description": "Morgan paints the town red with her red hair.",
+    "Gender": "female",
+    "UUID": "d08af477-de20-4780-8449-46b87840b9fa",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "5b00b7b499b8e8c81509197389f9908f5299bc74841806727752f7ad8c8a3654",
+    "Series Number": "408",
+    "Filename": "afro-star",
+    "Description": "Bimbo is an afro star with great affluence.",
+    "Gender": "female",
+    "UUID": "40743b16-ae12-4b4a-989c-e5fbf1e2e0ca",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "f70c59d85ec60205af75d711a49707a56afab2349a336d7e73bf276174fa2220",
+    "Series Number": "409",
+    "Filename": "fiesty-sandra",
+    "Description": "Sandra is a social animal, correct owambe ambassador.",
+    "Gender": "female",
+    "UUID": "d875aa6c-3e4a-4450-b09c-e9f1cdcc3947",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "68d4b810637abde4ddd92ce1aa0db86835ba91d0c1f6a36a428ea43bef7afdbd",
+    "Series Number": "410",
+    "Filename": "sister-nkechi-sabi",
+    "Description": "Nkechi is the true definition of amebo, always in peoples business.",
+    "Gender": "female",
+    "UUID": "a728a380-1d33-4080-841d-80b041474d8f",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "97f47ac70c5643770542a6dfe0232d936164db3c3c7aa1f6a6e01f4cb485b3ec",
+    "Series Number": "411",
+    "Filename": "unfriendly-gina",
+    "Description": "Gina is an angry one, she has no friends but she has a lot of money.",
+    "Gender": "female",
+    "UUID": "dd30a327-8a74-40a5-8207-19a790508ccc",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "742dab4b34da9134b79509d1722d35e5651ff0cc550f4b380864c15fe108263e",
+    "Series Number": "412",
+    "Filename": "dada-ganster",
+    "Description": "Dada respects no one, always finds pleasure terrorising others.",
+    "Gender": "female",
+    "UUID": "e1a43f65-aad2-4385-ac5e-bc159c6e0f2a",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "f84fca63ecc14efea317e6f10b0488579f6ba47780dacd368f5adf96b95d679c",
+    "Series Number": "413",
+    "Filename": "idoncare-linda",
+    "Description": "Linda is a beautiful but very annoying girl, she turns every thing to a fight.",
+    "Gender": "female",
+    "UUID": "ed04b47c-ae98-4db2-b71b-04d7bb976d45",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "3e3181912521453a2c18ba167c2a3f13fc61f66b45e8ca20547576a755090b1e",
+    "Series Number": "414",
+    "Filename": "doubting-vivian",
+    "Description": "Vivian just like the thomas in the bible, she doubts all.",
+    "Gender": "female",
+    "UUID": "a0282797-44ef-4bfb-a701-e4ed5e727d63",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "87795164c301696fd409fd1560a3679318c3a00556b6a1ef0a5b48776237d8cc",
+    "Series Number": "415",
+    "Filename": "simbi-side-eyed",
+    "Description": "Simbi is reserved but doesn't allow anyone intimidate her.",
+    "Gender": "female",
+    "UUID": "1f99104c-e98b-4c9a-9891-00a481e86008",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "bb8a61a14e7502e7c437c7b43d8353b3ae57d635bf11fc1be0a0d0728bce6c8f",
+    "Series Number": "416",
+    "Filename": "bambi-tekno",
+    "Description": "Bambi is the dancer of the team.",
+    "Gender": "female",
+    "UUID": "95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "1bbc724c045419a48808bec3ede7289924e981503d81207cbef1020dfe22d323",
+    "Series Number": "417",
+    "Filename": "saka-portable",
+    "Description": "Saka is forever convinced that his toothless smile is the icing on his cake.",
+    "Gender": "male",
+    "UUID": "bd98f74f-e42e-494e-8298-3183555ca666",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "458232705e6de8dc46d82d248fbbf38bd210a12e8046cd408e2a3bd2f0d99cf3",
+    "Series Number": "418",
+    "Filename": "king-of-boys",
+    "Description": "Busayo finds her way in ruling the boys and that's why she's king of boys.",
+    "Gender": "female",
+    "UUID": "a650e79c-f964-4eb1-aa89-f9c1dbdede76",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "3810e1f94811e9727d4f0466a119c628fe22cac42bd8df857d2369b8240d887b",
+    "Series Number": "419",
+    "Filename": "funky-alte-pop",
+    "Description": "Funke is always the life of every party, strong gen z advocate.",
+    "Gender": "female",
+    "UUID": "b6753a8b-6127-4e97-812b-99e465791ba3",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  },
+  {
+    "Hash": "52d3b7849a7ed51721069fc4183016ae527fd98bce4bf50b78e398132bdb4542",
+    "Series Number": "420",
+    "Filename": "madame-ngozi",
+    "Description": "Ngozi make heads turn with her bright colours.",
+    "Gender": "female",
+    "UUID": "7ecdbb1d-9a89-4136-b240-499051836979",
+    "mechanic_boot": "99d44e1b935ee36b0255ec8e019f5102a8dfe0d56ec6c29cf1066d1110b84860"
+  }
+]

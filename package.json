@@ -1,33 +1,16 @@
 {
-  "name": "task-csv2json",
+  "name": "task-csv2json-main",
   "version": "1.0.0",
   "description": "1. Take the CSV provided by the teams, and generate a CHIP-0007 compatible json,",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "Start": "node server.js",
-    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Oisavictor/Task-csv2json.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Oisavictor/Task-csv2json/issues"
-  },
-  "homepage": "https://github.com/Oisavictor/Task-csv2json#readme",
   "dependencies": {
     "crypto": "^1.0.1",
-    "csv": "^6.2.1",
-    "csv-to-json": "^0.1.2",
-    "csv-writer": "^1.6.0",
-    "csvtojson": "^2.0.10",
+    "json2csv": "^5.0.7",
     "node-csv-json": "^0.2.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
   }
 }
